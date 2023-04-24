@@ -28,3 +28,9 @@ C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\obj\Debug\net5.0\r
 C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\obj\Debug\net5.0\TiAcessivel.Api.pdb
 C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\obj\Debug\net5.0\TiAcessivel.Api.genruntimeconfig.cache
 C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ricardo\source\repos\TiAcessivel.Api\TiAcessivel.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
